@@ -1,0 +1,12 @@
+# Ignore system files & unnecessary directories
+*.log
+*.ini
+.DS_Store
+.vscode/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
